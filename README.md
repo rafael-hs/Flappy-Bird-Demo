@@ -14,3 +14,5 @@ is a small example of some ways to manipulate the DOM
 contact: rafael.contatotrab@gmail.com
 
 sorry for my english XD
+
+![alt text](./imgs/flappy-demo.png)
